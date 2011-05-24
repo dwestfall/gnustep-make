@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}From `make' to the internal-all rule}{1}
+\contentsline {section}{\numberline {3}From the internal-all rule to the \%.variables rule}{2}
+\contentsline {section}{\numberline {4}The \%.variables rule - dependencies}{2}
+\contentsline {section}{\numberline {5}The \%.variables rule - second make invocation}{3}
+\contentsline {section}{\numberline {6}Second make invocation}{4}

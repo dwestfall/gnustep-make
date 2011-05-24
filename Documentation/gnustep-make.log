@@ -1,0 +1,330 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdfetex 2011.5.2)  6 MAY 2011 15:26
+entering extended mode
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**./gnustep-make.texi
+(./gnustep-make.texi (/usr/share/texmf/tex/texinfo/texinfo.tex
+Loading texinfo [version 2008-04-18.10]:
+\bindingoffset=\dimen16
+\normaloffset=\dimen17
+\pagewidth=\dimen18
+\pageheight=\dimen19
+\outerhsize=\dimen20
+\outervsize=\dimen21
+\cornerlong=\dimen22
+\cornerthick=\dimen23
+\topandbottommargin=\dimen24
+\headlinebox=\box16
+\footlinebox=\box17
+\margin=\insert252
+\EMsimple=\toks13
+\groupbox=\box18
+\groupinvalidhelp=\toks14
+\mil=\dimen25
+\exdentamount=\skip18
+\inmarginspacing=\skip19
+ pdf,
+\tempnum=\count27
+\lnkcount=\count28
+\filename=\toks15
+\filenamelength=\count29
+\pgn=\count30
+\toksA=\toks16
+\toksB=\toks17
+\toksC=\toks18
+\toksD=\toks19
+\boxA=\box19
+\countA=\count31
+\nopdfimagehelp=\toks20
+ fonts,
+\sffam=\fam8
+\textleading=\dimen26
+\fontdepth=\count32
+ page headings,
+\titlepagetopglue=\skip20
+\titlepagebottomglue=\skip21
+\evenheadline=\toks21
+\oddheadline=\toks22
+\evenfootline=\toks23
+\oddfootline=\toks24
+ tables,
+\tableindent=\dimen27
+\itemindent=\dimen28
+\itemmargin=\dimen29
+\itemmax=\dimen30
+\itemno=\count33
+\multitableparskip=\skip22
+\multitableparindent=\skip23
+\multitablecolspace=\dimen31
+\multitablelinespace=\skip24
+\colcount=\count34
+\everytab=\toks25
+
+conditionals,
+\doignorecount=\count35
+ indexing,
+\whatsitskip=\skip25
+\whatsitpenalty=\count36
+\secondaryindent=\skip26
+\partialpage=\box20
+\doublecolumnhsize=\dimen32
+ sectioning,
+\unnumberedno=\count37
+\chapno=\count38
+\secno=\count39
+\subsecno=\count40
+\subsubsecno=\count41
+\appendixno=\count42
+\absseclevel=\count43
+\secbase=\count44
+\chapheadingskip=\skip27
+\secheadingskip=\skip28
+\subsecheadingskip=\skip29
+ toc,
+\tocfile=\write0
+\contentsrightmargin=\skip30
+\savepageno=\count45
+\lastnegativepageno=\count46
+\tocindent=\dimen33
+ environments,
+\errorbox=\box21
+\lispnarrowing=\skip31
+\envskipamount=\skip32
+\circthick=\dimen34
+\cartouter=\dimen35
+\cartinner=\dimen36
+\normbskip=\skip33
+\normpskip=\skip34
+\normlskip=\skip35
+\lskip=\skip36
+\rskip=\skip37
+\tabw=\dimen37
+ defuns,
+\defbodyindent=\skip38
+\defargsindent=\skip39
+\deflastargmargin=\skip40
+\defunpenalty=\count47
+\parencount=\count48
+\brackcount=\count49
+ macros,
+\paramno=\count50
+\macname=\toks26
+
+cross references,
+\auxfile=\write1
+\savesfregister=\count51
+ insertions,
+\footnoteno=\count52
+\SAVEfootins=\box22
+\SAVEmargin=\box23
+ (/usr/share/texmf/tex/generic/epsf/epsf.tex
+This is `epsf.tex' v2.7.3 <23 July 2005>
+\epsffilein=\read1
+\epsfframemargin=\dimen38
+\epsfframethickness=\dimen39
+\epsfrsize=\dimen40
+\epsftmp=\dimen41
+\epsftsize=\dimen42
+\epsfxsize=\dimen43
+\epsfysize=\dimen44
+\pspoints=\dimen45
+)
+\noepsfhelp=\toks27
+ localization,
+\nolanghelp=\toks28
+\countUTFx=\count53
+\countUTFy=\count54
+\countUTFz=\count55
+ formatting,
+\defaultparindent=\dimen46
+ and turning on texinfo input format.)
+(./gnustep-make.aux)
+\openout1 = `gnustep-make.aux'.
+
+@cpindfile=@write2
+@fnindfile=@write3
+@vrindfile=@write4
+@tpindfile=@write5
+@kyindfile=@write6
+@pgindfile=@write7
+ [1
+\openout2 = `gnustep-make.cp'.
+
+\openout3 = `gnustep-make.fn'.
+
+\openout4 = `gnustep-make.vr'.
+
+\openout5 = `gnustep-make.tp'.
+
+\openout6 = `gnustep-make.ky'.
+
+\openout7 = `gnustep-make.pg'.
+
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2] (./gnustep-make.toc) [-1] [-2] (./gnustep-make.toc) (./gnustep-make.toc)
+Chapter 1
+\openout0 = `gnustep-make.toc'.
+
+ [1] [2] [3] [4] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 480--484
+[]@textrm To add the cor-re-spond-ing flags, you can use @texttt ADDITIONAL_
+
+@hbox(7.60416+2.12917)x361.34999, glue set 4.5654
+.@hbox(0.0+0.0)x15.0
+.@textrm T
+.@kern-0.91252
+.@textrm o
+.@glue 3.65 plus 1.825 minus 1.21666
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 480--484
+@texttt NATIVE_LIB_DIRS += ../MyPath[] @textrm This will be con-verted into -
+
+@hbox(7.60416+2.43333)x361.34999, glue set 5.92516
+.@texttt N
+.@texttt A
+.@texttt T
+.@texttt I
+.@texttt V
+.etc.
+
+[7] [8] [9]
+Overfull \hbox (120.22624pt too wide) in paragraph at lines 671--671
+ []@texttt Source:         ftp://ftp.gnustep.org/pub/gnustep/libs/%{gs_name}-%{
+gs_version}.[] |
+
+@hbox(7.60416+2.43333)x361.34999
+.@glue(@leftskip) 21.68121
+.@hbox(0.0+0.0)x0.0
+.@texttt S
+.@texttt o
+.@texttt u
+.etc.
+
+[10] [11] [12] [13] [14]
+Underfull \hbox (badness 5726) in paragraph at lines 992--1001
+ @textrm placed in the ap-pro-pri-ate sub-di-rec-tory of @texttt GNUSTEP_TOOLS[
+]@textrm , see
+
+@hbox(7.60416+2.12917)x361.34999, glue set 3.85588
+.@glue(@leftskip) 14.22636
+.@textrm p
+.@textrm l
+.@textrm a
+.@textrm c
+.etc.
+
+[15]
+Underfull \hbox (badness 7030) in paragraph at lines 1031--1043
+ @textrm names, which are @texttt ApplicationSupport[]@textrm , @texttt Bundles
+[]@textrm , @texttt Frameworks[]@textrm ,
+
+@hbox(7.60416+2.43333)x361.34999, glue set 4.12859
+.@glue(@leftskip) 14.22636
+.@textrm n
+.@textrm a
+.@textrm m
+.@textrm e
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1043
+ @texttt ApplicationSupport/Palettes[]@textrm , @texttt Services[]@textrm , @te
+xttt Libraries/Resources[]
+
+@hbox(7.60416+2.43333)x361.34999, glue set 5.10933
+.@glue(@leftskip) 14.22636
+.@texttt A
+.@texttt p
+.@texttt p
+.@texttt l
+.etc.
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 1031--1043
+ @texttt GNUSTEP_LIBRARY/ApplicationSupport[]@textrm , @texttt GNUSTEP_LIBRARY/
+Bundles[]@textrm ,
+
+@hbox(7.60416+2.43333)x361.34999, glue set 4.2587
+.@glue(@leftskip) 14.22636
+.@texttt G
+.@texttt N
+.@texttt U
+.@texttt S
+.etc.
+
+[16] [17]
+Underfull \hbox (badness 3302) in paragraph at lines 1127--1137
+ @texttt GNUSTEP_HOST_CPU[]@textrm , @texttt GNUSTEP_HOST_VENDOR[]@textrm , @te
+xttt GNUSTEP_HOST_OS[]@textrm , and
+
+@hbox(7.60416+2.12917)x361.34999, glue set 3.21062
+.@glue(@leftskip) 14.22636
+.@texttt G
+.@texttt N
+.@texttt U
+.@texttt S
+.etc.
+
+[18] [19] [20] [21] [22]
+Underfull \hbox (badness 3260) in paragraph at lines 1456--1469
+@textrm the pack-age will be in-stalled in the `@texttt $GNUSTEP_SYSTEM_ROOT/Ap
+ps[]@textrm '[]
+
+@hbox(7.60416+2.43333)x361.34999, glue set 3.19774
+.@textrm t
+.@textrm h
+.@textrm e
+.@glue 3.65 plus 1.825 minus 1.21666
+.@textrm p
+.etc.
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 1456--1469
+@textrm di-rec-tory, li-braries in the pack-age will be in-stalled un-der the
+
+@hbox(7.60416+2.12917)x361.34999, glue set 4.29008
+.@textrm d
+.@textrm i
+.@discretionary
+..@textrm -
+.@textrm r
+.@textrm e
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1469
+@textrm `@texttt $GNUSTEP_SYSTEM_ROOT/Library/Libraries[]@textrm '[] di-rec-tor
+y, com-mand
+
+@hbox(7.60416+2.43333)x361.34999, glue set 9.30429
+.@textrm `
+.@texttt $
+.@texttt G
+.@texttt N
+.@texttt U
+.etc.
+
+[23] [24] ) 
+Here is how much of TeX's memory you used:
+ 1867 strings out of 259301
+ 23091 string characters out of 1958501
+ 59272 words of memory out of 1500000
+ 2899 multiletter control sequences out of 10000+200000
+ 32127 words of font info for 112 fonts, out of 1200000 for 2000
+ 51 hyphenation exceptions out of 8191
+ 13i,6n,17p,289b,476s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmb10.pfb></usr/share/texmf
+/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmm
+i10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi12.pfb></usr/share/texmf/f
+onts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10
+.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb></usr/share/texmf/font
+s/type1/bluesky/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmtt12.p
+fb></usr/share/texmf/fonts/type1/bluesky/cm/cmtt9.pfb>
+Output written on gnustep-make.pdf (28 pages, 177886 bytes).
+PDF statistics:
+ 419 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 131072)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+

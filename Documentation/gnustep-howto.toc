@@ -1,0 +1,14 @@
+@numchapentry{Introduction}{1}{Introduction}{1}
+@numchapentry{Summary}{2}{Preliminaries}{2}
+@numchapentry{Compiling and Installing the packages}{3}{Compiling and Installing}{5}
+@numsecentry{Installing the Core Libraries}{3.1}{Core Package}{5}
+@numsubsecentry{Alternate Library Setup}{3.1.1}{Alternate Library Setup}{6}
+@numsubsecentry{Building the Package}{3.1.2}{Individual Packages}{6}
+@numchapentry{Additional Installation}{4}{Additional Installation}{7}
+@numsecentry{Environment Setup}{4.1}{Environment Setup}{7}
+@numsecentry{GNUstep Home}{4.2}{GNUstep Home}{7}
+@numsecentry{Time Zone}{4.3}{Time Zone}{8}
+@numsecentry{GNUstep deamons}{4.4}{GNUstep deamons}{8}
+@numchapentry{Test Tools and Applications}{5}{Tools and Applications}{9}
+@numchapentry{Machine Specific Instructions}{6}{Machine Specific}{10}
+@numchapentry{Getting Libraries via SVN}{7}{Source via SVN}{11}

@@ -1,0 +1,84 @@
+\initial {A}
+\entry {\code {ADDITIONAL_CFLAGS}}{12}
+\entry {\code {ADDITIONAL_CPPFLAGS}}{11}
+\entry {\code {ADDITIONAL_GUI_LIBS}}{13}
+\entry {\code {ADDITIONAL_INCLUDE_DIRS}}{12}
+\entry {\code {ADDITIONAL_INSTALL_DIRS}}{14}
+\entry {\code {ADDITIONAL_LDFLAGS}}{12}
+\entry {\code {ADDITIONAL_LIB_DIRS}}{12}
+\entry {\code {ADDITIONAL_OBJC_LIBS}}{13}
+\entry {\code {ADDITIONAL_OBJCFLAGS}}{11}
+\entry {\code {ADDITIONAL_TOOL_LIBS}}{13}
+\initial {C}
+\entry {\code {C_FILES}}{3}
+\entry {\code {CFLAGS}}{5, 23}
+\entry {\code {CLEAN_CPU_SCRIPT}}{19}
+\entry {\code {CLEAN_OS_SCRIPT}}{19}
+\entry {\code {CLEAN_VENDOR_SCRIPT}}{19}
+\entry {\code {CONFIG_CPU_SCRIPT}}{18}
+\entry {\code {CONFIG_GUESS_SCRIPT}}{18}
+\entry {\code {CONFIG_OS_SCRIPT}}{19}
+\entry {\code {CONFIG_SUB_SCRIPT}}{18}
+\entry {\code {CONFIG_VENDOR_SCRIPT}}{18}
+\entry {\code {CPPFLAGS}}{5}
+\initial {F}
+\entry {\code {FND_DEFINE}}{21}
+\entry {\code {FOUNDATION_LIB}}{21}
+\initial {G}
+\entry {\code {GNUSTEP_ADMIN_APPS}}{15}
+\entry {\code {GNUSTEP_ADMIN_TOOLS}}{16}
+\entry {\code {GNUSTEP_APPS}}{15}
+\entry {\code {GNUSTEP_DOC}}{17}
+\entry {\code {GNUSTEP_DOC_INFO}}{17}
+\entry {\code {GNUSTEP_DOC_MAN}}{17}
+\entry {\code {GNUSTEP_HEADERS}}{16}
+\entry {\code {GNUSTEP_HOST}}{19}
+\entry {\code {GNUSTEP_HOST_CPU}}{19}
+\entry {\code {GNUSTEP_HOST_DIR}}{17}
+\entry {\code {GNUSTEP_HOST_OS}}{20}
+\entry {\code {GNUSTEP_HOST_VENDOR}}{20}
+\entry {\code {GNUSTEP_INSTALLATION_DOMAIN}}{8, 10, 23}
+\entry {\code {GNUSTEP_LIBRARIES}}{16}
+\entry {\code {GNUSTEP_LIBRARY}}{16}
+\entry {\code {GNUSTEP_MAKEFILES}}{15}
+\entry {\code {GNUSTEP_OBJ_DIR}}{17}
+\entry {\code {GNUSTEP_RESOURCES}}{17}
+\entry {\code {GNUSTEP_TARGET}}{20}
+\entry {\code {GNUSTEP_TARGET_CPU}}{20}
+\entry {\code {GNUSTEP_TARGET_DIR}}{17}
+\entry {\code {GNUSTEP_TARGET_OS}}{20}
+\entry {\code {GNUSTEP_TARGET_VENDOR}}{20}
+\entry {\code {GNUSTEP_TOOLS}}{15}
+\entry {\code {GNUSTEP_WEB_APPS}}{15}
+\entry {\code {GUI_BACKEND_DEFINE}}{23}
+\entry {\code {GUI_BACKEND_LIB}}{22}
+\entry {\code {GUI_DEFINE}}{22}
+\entry {\code {GUI_LIB}}{22}
+\initial {H}
+\entry {\code {HEADER_FILES}}{4}
+\entry {\code {HEADER_FILES_DIR}}{4}
+\entry {\code {HEADER_FILES_INSTALL_DIR}}{4}
+\initial {I}
+\entry {\code {INCLUDE_DIRS}}{5}
+\initial {L}
+\entry {\code {LDFLAGS}}{5}
+\entry {\code {LIBRARIES_DEPEND_UPON}}{14}
+\entry {\code {LIBRARY_NAME}}{3}
+\initial {N}
+\entry {\code {NATIVE_LIBRARY_NAME}}{7}
+\initial {O}
+\entry {\code {OBJC_FILES}}{4}
+\entry {\code {OBJC_LIBS}}{8}
+\entry {\code {OBJC_PROGRAM_NAME}}{8}
+\entry {\code {OBJC_RUNTIME_LIB}}{21}
+\entry {\code {OBJCFLAGS}}{5, 23}
+\entry {\code {OPTFLAG}}{23}
+\initial {P}
+\entry {\code {PACKAGE_NAME}}{8, 10}
+\entry {\code {PACKAGE_NEEDS_CONFIGURE}}{10}
+\entry {\code {PACKAGE_VERSION}}{8, 10}
+\entry {\code {PSWRAP_FILES}}{4}
+\initial {R}
+\entry {\code {RUNTIME_DEFINE}}{21}
+\initial {S}
+\entry {\code {SUBPROJECTS}}{2}

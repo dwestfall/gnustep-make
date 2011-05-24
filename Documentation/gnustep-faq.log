@@ -1,0 +1,362 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdfetex 2011.5.2)  6 MAY 2011 15:26
+entering extended mode
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**./gnustep-faq.texi
+(./gnustep-faq.texi (/usr/share/texmf/tex/texinfo/texinfo.tex
+Loading texinfo [version 2008-04-18.10]:
+\bindingoffset=\dimen16
+\normaloffset=\dimen17
+\pagewidth=\dimen18
+\pageheight=\dimen19
+\outerhsize=\dimen20
+\outervsize=\dimen21
+\cornerlong=\dimen22
+\cornerthick=\dimen23
+\topandbottommargin=\dimen24
+\headlinebox=\box16
+\footlinebox=\box17
+\margin=\insert252
+\EMsimple=\toks13
+\groupbox=\box18
+\groupinvalidhelp=\toks14
+\mil=\dimen25
+\exdentamount=\skip18
+\inmarginspacing=\skip19
+ pdf,
+\tempnum=\count27
+\lnkcount=\count28
+\filename=\toks15
+\filenamelength=\count29
+\pgn=\count30
+\toksA=\toks16
+\toksB=\toks17
+\toksC=\toks18
+\toksD=\toks19
+\boxA=\box19
+\countA=\count31
+\nopdfimagehelp=\toks20
+ fonts,
+\sffam=\fam8
+\textleading=\dimen26
+\fontdepth=\count32
+ page headings,
+\titlepagetopglue=\skip20
+\titlepagebottomglue=\skip21
+\evenheadline=\toks21
+\oddheadline=\toks22
+\evenfootline=\toks23
+\oddfootline=\toks24
+ tables,
+\tableindent=\dimen27
+\itemindent=\dimen28
+\itemmargin=\dimen29
+\itemmax=\dimen30
+\itemno=\count33
+\multitableparskip=\skip22
+\multitableparindent=\skip23
+\multitablecolspace=\dimen31
+\multitablelinespace=\skip24
+\colcount=\count34
+\everytab=\toks25
+
+conditionals,
+\doignorecount=\count35
+ indexing,
+\whatsitskip=\skip25
+\whatsitpenalty=\count36
+\secondaryindent=\skip26
+\partialpage=\box20
+\doublecolumnhsize=\dimen32
+ sectioning,
+\unnumberedno=\count37
+\chapno=\count38
+\secno=\count39
+\subsecno=\count40
+\subsubsecno=\count41
+\appendixno=\count42
+\absseclevel=\count43
+\secbase=\count44
+\chapheadingskip=\skip27
+\secheadingskip=\skip28
+\subsecheadingskip=\skip29
+ toc,
+\tocfile=\write0
+\contentsrightmargin=\skip30
+\savepageno=\count45
+\lastnegativepageno=\count46
+\tocindent=\dimen33
+ environments,
+\errorbox=\box21
+\lispnarrowing=\skip31
+\envskipamount=\skip32
+\circthick=\dimen34
+\cartouter=\dimen35
+\cartinner=\dimen36
+\normbskip=\skip33
+\normpskip=\skip34
+\normlskip=\skip35
+\lskip=\skip36
+\rskip=\skip37
+\tabw=\dimen37
+ defuns,
+\defbodyindent=\skip38
+\defargsindent=\skip39
+\deflastargmargin=\skip40
+\defunpenalty=\count47
+\parencount=\count48
+\brackcount=\count49
+ macros,
+\paramno=\count50
+\macname=\toks26
+
+cross references,
+\auxfile=\write1
+\savesfregister=\count51
+ insertions,
+\footnoteno=\count52
+\SAVEfootins=\box22
+\SAVEmargin=\box23
+ (/usr/share/texmf/tex/generic/epsf/epsf.tex
+This is `epsf.tex' v2.7.3 <23 July 2005>
+\epsffilein=\read1
+\epsfframemargin=\dimen38
+\epsfframethickness=\dimen39
+\epsfrsize=\dimen40
+\epsftmp=\dimen41
+\epsftsize=\dimen42
+\epsfxsize=\dimen43
+\epsfysize=\dimen44
+\pspoints=\dimen45
+)
+\noepsfhelp=\toks27
+ localization,
+\nolanghelp=\toks28
+\countUTFx=\count53
+\countUTFy=\count54
+\countUTFz=\count55
+ formatting,
+\defaultparindent=\dimen46
+ and turning on texinfo input format.) Chapter 1
+\openout0 = `gnustep-faq.toc'.
+
+
+@xrdef{Top-title}{GNUstep Frequently Asked Questions with Answers}
+@xrdef{Top-snt}{Chapter@tie 1}
+@xrdef{Compatibility-title}{Compatibility}
+@xrdef{Compatibility-snt}{Section@tie 1.1}
+@xrdef{Is it easy to port OPENSTEP programs to GNUstep?-title}{Is it easy to po
+rt OPENSTEP programs to GNUstep?}
+@xrdef{Is it easy to port OPENSTEP programs to GNUstep?-snt}{Section@tie 1.1.1}
+
+@xrdef{How about porting between Cocoa and GNUstep?-title}{How about porting be
+tween Cocoa and GNUstep?}
+@xrdef{How about porting between Cocoa and GNUstep?-snt}{Section@tie 1.1.2}
+
+Underfull \hbox (badness 2269) in paragraph at lines 68--70
+[]@textrm See also [][]@texttt http://mediawiki.gnustep.org/index.php/Writing_p
+ortable_code[][][] @textrm for
+
+@hbox(7.60416+2.43333)x433.62, glue set 2.83318
+.@hbox(0.0+0.0)x15.0
+.@textrm S
+.@textrm e
+.@textrm e
+.@glue 3.65 plus 1.825 minus 1.21666
+.etc.
+
+@xrdef{Tools for porting-title}{Tools for porting}
+@xrdef{Tools for porting-snt}{Section@tie 1.1.3}
+[1
+@xrdef{Top-pg}{1}
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}
+@xrdef{Compatibility-pg}{1}
+@xrdef{Is it easy to port OPENSTEP programs to GNUstep?-pg}{1}
+@xrdef{How about porting between Cocoa and GNUstep?-pg}{1}
+@xrdef{Tools for porting-pg}{1}
+]
+@xrdef{Can I transfer archived data from GNUstep to Cocoa?-title}{Can I transfe
+r archived data from GNUstep to Cocoa?}
+@xrdef{Can I transfer archived data from GNUstep to Cocoa?-snt}{Section@tie 1.1
+.4}
+@xrdef{Does distributed objects work between GNUstep and Cocoa?-title}{Does dis
+tributed objects work between GNUstep and Cocoa?}
+@xrdef{Does distributed objects work between GNUstep and Cocoa?-snt}{Section@ti
+e 1.1.5}
+@xrdef{Is there an Interface Builder for GNUstep?-title}{Is there an Interface 
+Builder for GNUstep?}
+@xrdef{Is there an Interface Builder for GNUstep?-snt}{Section@tie 1.1.6}
+@xrdef{Can I use my original NIB files?-title}{Can I use my original NIB files?
+}
+@xrdef{Can I use my original NIB files?-snt}{Section@tie 1.1.7}
+@xrdef{Can one use the hybrid "Objective-C++"-title}{Can one use the hybrid "Ob
+jective-C++"}
+@xrdef{Can one use the hybrid "Objective-C++"-snt}{Section@tie 1.1.8}
+@xrdef{Is there a plan to support Java/YellowBox Bindings?-title}{Is there a pl
+an to support the Java/YellowBox Bindings?}
+@xrdef{Is there a plan to support Java/YellowBox Bindings?-snt}{Section@tie 1.1
+.9}
+[2
+@xrdef{Can I transfer archived data from GNUstep to Cocoa?-pg}{2}
+@xrdef{Does distributed objects work between GNUstep and Cocoa?-pg}{2}
+@xrdef{Is there an Interface Builder for GNUstep?-pg}{2}
+@xrdef{Can I use my original NIB files?-pg}{2}
+@xrdef{Can one use the hybrid "Objective-C++"-pg}{2}
+@xrdef{Is there a plan to support Java/YellowBox Bindings?-pg}{2}
+]
+@xrdef{What if I compile GNUstep under OPENSTEP/MacOS X?-title}{What if I compi
+le GNUstep under OPENSTEP/MacOS X?}
+@xrdef{What if I compile GNUstep under OPENSTEP/MacOS X?-snt}{Section@tie 1.1.1
+0}
+@xrdef{Is the Objective C API for GTK related?-title}{Is the Objective C API fo
+r GTK related?}
+@xrdef{Is the Objective C API for GTK related?-snt}{Section@tie 1.1.11}
+@xrdef{How about implementing parts of the Application Kit with GTK?-title}{How
+ about implementing parts of the Application Kit with GTK?}
+@xrdef{How about implementing parts of the Application Kit with GTK?-snt}{Secti
+on@tie 1.1.12}
+@xrdef{Compiling and Developing-title}{Compiling and Developing}
+@xrdef{Compiling and Developing-snt}{Section@tie 1.2}
+@xrdef{How can I get started programming?-title}{How can I get started programm
+ing?}
+@xrdef{How can I get started programming?-snt}{Section@tie 1.2.1}
+@xrdef{How can I help with GNUstep?-title}{How can I help with GNUstep?}
+@xrdef{How can I help with GNUstep?-snt}{Section@tie 1.2.2}
+[3
+@xrdef{What if I compile GNUstep under OPENSTEP/MacOS X?-pg}{3}
+@xrdef{Is the Objective C API for GTK related?-pg}{3}
+@xrdef{How about implementing parts of the Application Kit with GTK?-pg}{3}
+@xrdef{Compiling and Developing-pg}{3}
+@xrdef{How can I get started programming?-pg}{3}
+@xrdef{How can I help with GNUstep?-pg}{3}
+]
+@xrdef{Helping develop GNUstep-title}{Helping develop GNUstep}
+@xrdef{Helping develop GNUstep-snt}{Section@tie 1.2.3}
+@xrdef{Helping document GNUstep-title}{Helping document GNUstep}
+@xrdef{Helping document GNUstep-snt}{Section@tie 1.2.4}
+@xrdef{How do I assign my contribution?-title}{How do I assign my contribution?
+}
+@xrdef{How do I assign my contribution?-snt}{Section@tie 1.2.5}
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--320
+[][]@texttt http://www.gnustep.org/resources/request-assign.future[][][] @textr
+m (in-struc-tions are
+
+@hbox(8.2125+2.73749)x433.62, glue set 11.20091
+.@pdfliteral{0.28 1 1 0.35 k}
+.@pdflink(*+*)x* attr{/Border [0 0 0]} action user{/Subtype /Link /A << /S /URI
+ /URI (http://www.gnustep.org/resources/r@ETC.}
+
+[4
+@xrdef{Helping develop GNUstep-pg}{4}
+@xrdef{Helping document GNUstep-pg}{4}
+@xrdef{How do I assign my contribution?-pg}{4}
+]
+@xrdef{How do I update the task list?-title}{How do I update the task list?}
+@xrdef{How do I update the task list?-snt}{Section@tie 1.2.6}
+@xrdef{How do I start writing tests?-title}{How do I start writing tests?}
+@xrdef{How do I start writing tests?-snt}{Section@tie 1.2.7}
+@xrdef{How do I start writing applications?-title}{How do I start writing appli
+cations?}
+@xrdef{How do I start writing applications?-snt}{Section@tie 1.2.8}
+@xrdef{How can I help with the GNUstep website?-title}{How can I help with the 
+GNUstep website?}
+@xrdef{How can I help with the GNUstep website?-snt}{Section@tie 1.2.9}
+[5
+@xrdef{How do I update the task list?-pg}{5}
+@xrdef{How do I start writing tests?-pg}{5}
+@xrdef{How do I start writing applications?-pg}{5}
+@xrdef{How can I help with the GNUstep website?-pg}{5}
+]
+@xrdef{Why doesn't GDB support Objective-C?-title}{Why doesn't GDB support Obje
+ctive-C?}
+@xrdef{Why doesn't GDB support Objective-C?-snt}{Section@tie 1.2.10}
+@xrdef{GNU Objective C Compiler and Runtime-title}{GNU Objective C Compiler and
+ Runtime}
+@xrdef{GNU Objective C Compiler and Runtime-snt}{Section@tie 1.3}
+@xrdef{What is the Objective C Runtime?-title}{What is the Objective C Runtime?
+}
+@xrdef{What is the Objective C Runtime?-snt}{Section@tie 1.3.1}
+@xrdef{GNUstep Base Library-title}{GNUstep Base Library}
+@xrdef{GNUstep Base Library-snt}{Section@tie 1.4}
+@xrdef{What is the GNUstep Base Library?-title}{What is the GNUstep Base Librar
+y?}
+@xrdef{What is the GNUstep Base Library?-snt}{Section@tie 1.4.1}
+@xrdef{What is base's current state of development?-title}{What is its current 
+state of development?}
+@xrdef{What is base's current state of development?-snt}{Section@tie 1.4.2}
+@xrdef{What are the features of GNU Distributed Objects?-title}{What are the fe
+atures of GNU Distributed Objects?}
+@xrdef{What are the features of GNU Distributed Objects?-snt}{Section@tie 1.4.3
+}
+[6
+@xrdef{Why doesn't GDB support Objective-C?-pg}{6}
+@xrdef{GNU Objective C Compiler and Runtime-pg}{6}
+@xrdef{What is the Objective C Runtime?-pg}{6}
+@xrdef{GNUstep Base Library-pg}{6}
+@xrdef{What is the GNUstep Base Library?-pg}{6}
+@xrdef{What is base's current state of development?-pg}{6}
+]
+@xrdef{GNUstep GUI Library-title}{GNUstep GUI Library}
+@xrdef{GNUstep GUI Library-snt}{Section@tie 1.5}
+@xrdef{What is the GUI Library?-title}{What is the GUI Library?}
+@xrdef{What is the GUI Library?-snt}{Section@tie 1.5.1}
+@xrdef{Explain the organization of the front- and back-ends-title}{Explain the 
+organization of the front- and back-ends}
+@xrdef{Explain the organization of the front- and back-ends-snt}{Section@tie 1.
+5.2}
+@xrdef{What is the current state of development of the front-end?-title}{What i
+s the current state of development of the front-end?}
+@xrdef{What is the current state of development of the front-end?-snt}{Section@
+tie 1.5.3}
+[7
+@xrdef{What are the features of GNU Distributed Objects?-pg}{7}
+@xrdef{GNUstep GUI Library-pg}{7}
+@xrdef{What is the GUI Library?-pg}{7}
+@xrdef{Explain the organization of the front- and back-ends-pg}{7}
+]
+@xrdef{What is the current state of development of the back-ends?-title}{What i
+s the current state of development of the back-ends?}
+@xrdef{What is the current state of development of the back-ends?-snt}{Section@
+tie 1.5.4}
+@xrdef{GNUstep DisplayGhostScript Server-title}{GNUstep DisplayGhostScript Serv
+er}
+@xrdef{GNUstep DisplayGhostScript Server-snt}{Section@tie 1.6}
+@xrdef{What is the Display Ghostscript Server?-title}{What is the Display Ghost
+script Server?}
+@xrdef{What is the Display Ghostscript Server?-snt}{Section@tie 1.6.1}
+@xrdef{What is DGSs current state of development?-title}{What is its current st
+ate of development?}
+@xrdef{What is DGSs current state of development?-snt}{Section@tie 1.6.2}
+@xrdef{What is the relationship between the Display Ghostscript Server and X Wi
+ndows?-title}{What is the relationship between the Display Ghostscript Server a
+nd X Windows?}
+@xrdef{What is the relationship between the Display Ghostscript Server and X Wi
+ndows?-snt}{Section@tie 1.6.3}
+[8
+@xrdef{What is the current state of development of the front-end?-pg}{8}
+@xrdef{What is the current state of development of the back-ends?-pg}{8}
+@xrdef{GNUstep DisplayGhostScript Server-pg}{8}
+@xrdef{What is the Display Ghostscript Server?-pg}{8}
+@xrdef{What is DGSs current state of development?-pg}{8}
+@xrdef{What is the relationship between the Display Ghostscript Server and X Wi
+ndows?-pg}{8}
+] ) 
+Here is how much of TeX's memory you used:
+ 1688 strings out of 259301
+ 21131 string characters out of 1958501
+ 57857 words of memory out of 1500000
+ 2750 multiletter control sequences out of 10000+200000
+ 32127 words of font info for 112 fonts, out of 1200000 for 2000
+ 51 hyphenation exceptions out of 8191
+ 11i,5n,17p,288b,342s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/
+type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb>
+</usr/share/texmf/fonts/type1/bluesky/cm/cmtt10.pfb></usr/share/texmf/fonts/typ
+e1/bluesky/cm/cmtt12.pfb>
+Output written on gnustep-faq.pdf (8 pages, 79762 bytes).
+PDF statistics:
+ 120 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 131072)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+

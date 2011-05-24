@@ -1,0 +1,16 @@
+** Environment
+ CC: gcc
+ CFLAGS: -O2 -g -march=i386 -mtune=i686 -x objective-c -I.   -fgnu-runtime -DGNU_RUNTIME
+ CPPFLAGS: 
+ LDFLAGS: 
+ LIBS: -lobjc -lpthread
+
+ current directory: /home/danny/rpmbuild/BUILD/gnustep-make-2.4.0/config-precomp-test
+ log file: /home/danny/rpmbuild/BUILD/gnustep-make-2.4.0/config-precomp-test.log
+
+ CFLAGS without -x objective-c: -O2 -g -march=i386 -mtune=i686  -I. -fgnu-runtime -DGNU_RUNTIME
+
+** Compile the file without precompiled headers
+gcc -o "/home/danny/rpmbuild/BUILD/gnustep-make-2.4.0/config-precomp-test.out" -O2 -g -march=i386 -mtune=i686  -I. -fgnu-runtime -DGNU_RUNTIME   -lobjc -lpthread config-precomp-test.m
+gcc: error trying to exec 'cc1obj': execvp: No such file or directory
+Failure

@@ -1,0 +1,36 @@
+@numchapentry{Makefile Package}{1}{Top}{1}
+@numsecentry{Introduction}{1.1}{Makefile Introduction}{1}
+@numsecentry{Structure of a Makefile}{1.2}{Makefile Structure}{1}
+@numsecentry{Running Make}{1.3}{Running Make}{1}
+@numsubsecentry{Debug Information}{1.3.1}{Debug Information}{1}
+@numsubsecentry{Profile Information}{1.3.2}{Profile Information}{2}
+@numsubsecentry{Static, Shared, and Dynamic Link Libraries}{1.3.3}{Library Types}{2}
+@numsecentry{Project Types}{1.4}{Project Types}{2}
+@numsubsecentry{Aggregate (@file {aggregate.make})}{1.4.1}{aggregate.make}{2}
+@numsubsecentry{Graphical Applications (@file {application.make})}{1.4.2}{application.make}{2}
+@numsubsecentry{Bundles (@file {bundle.make})}{1.4.3}{bundle.make}{3}
+@numsubsecentry{Command Line C Tools (@file {ctool.make})}{1.4.4}{ctool.make}{3}
+@numsubsecentry{Documentation (@file {documentation.make})}{1.4.5}{documentation.make}{3}
+@numsubsecentry{Frameworks (@file {framework.make})}{1.4.6}{framework.make}{3}
+@numsubsecentry{Java (@file {java.make})}{1.4.7}{java.make}{3}
+@numsubsecentry{Libraries (@file {library.make})}{1.4.8}{library.make}{3}
+@numsubsubsecentry{Project Variables}{1.4.8.1}{library.make variables}{3}
+@numsubsubsecentry{Example Makefile}{1.4.8.2}{Example Library Makefile}{6}
+@numsubsecentry{Native Library (@file {native-library.make})}{1.4.9}{native-library.make}{7}
+@numsubsecentry{NSIS Installer (@file {nsis.make})}{1.4.10}{nsis.make}{7}
+@numsubsecentry{Objective-C Programs (@file {objc.make})}{1.4.11}{objc.make}{8}
+@numsubsubsecentry{Project Variables}{1.4.11.1}{objc.make variables}{8}
+@numsubsubsecentry{Example Makefile}{1.4.11.2}{Example ObjC Makefile}{9}
+@numsubsecentry{Palettes (@file {palette.make})}{1.4.12}{palette.make}{9}
+@numsubsecentry{RPMs (@file {rpm.make})}{1.4.13}{rpm.make}{10}
+@numsubsecentry{Services (@file {service.make})}{1.4.14}{service.make}{10}
+@numsubsecentry{Subprojects (@file {subproject.make})}{1.4.15}{subproject.make}{11}
+@numsubsecentry{Command Line Tools (@file {tool.make})}{1.4.16}{tool.make}{11}
+@numsecentry{Global Variables (@file {GNUmakefile.preamble})}{1.5}{GNUmakefile.preamble}{11}
+@numsecentry{Global Rules (@file {GNUmakefile.postamble})}{1.6}{GNUmakefile.postamble}{14}
+@numsecentry{Common Variables (@file {common.make})}{1.7}{Common Variables}{15}
+@numsubsecentry{Directory Paths}{1.7.1}{Directory Paths}{15}
+@numsubsecentry{Scripts}{1.7.2}{Scripts}{18}
+@numsubsecentry{Host and Target Platform Information}{1.7.3}{Platform Information}{19}
+@numsubsecentry{Library Combination}{1.7.4}{Library Combination}{21}
+@numsubsecentry{Overridable Flags}{1.7.5}{Overridable Flags}{23}
